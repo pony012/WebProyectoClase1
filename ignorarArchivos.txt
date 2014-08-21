@@ -1,0 +1,2 @@
+Para ignorar archivos al ejecutar "git add *", se tiene que crear el archivo .gitignore, el cuál incluirá la lista de archivos a ignorar (Cada línea del documento será un archivo o patrón).
+Se pueden utilizar wildcards o patrones, por ejemplo para ignorar los archivos .txt, se tendría que incluir *.txt
